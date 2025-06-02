@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\11\\plugins\\inventory\\source\\inventory\\private\\inventory.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\11\\intermediate\\build\\win64\\x64\\aigameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\11\\plugins\\inventory\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inventory\\definitions.inventory.h",
+            "d:\\11\\plugins\\inventory\\source\\inventory\\public\\inventory.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Inventory-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\11\Intermediate\Build\Win64\x64\AIGameEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"D:\11\Plugins\Inventory\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Inventory\Module.Inventory.cpp.obj"
+"D:\11\Plugins\Inventory\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Inventory\Inventory.cpp.obj"
+"D:\11\Plugins\Inventory\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Inventory\MyBaseObject.cpp.obj"
+"D:\11\Plugins\Inventory\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Inventory\Default.rc2.res"
+/OUT:"D:\11\Plugins\Inventory\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Inventory\UnrealEditor-Inventory-Win64-DebugGame.lib"

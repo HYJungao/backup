@@ -1,0 +1,1 @@
+#include "D:/11/Plugins/Inventory/Source/Inventory/Public/MyBaseObject.h"
